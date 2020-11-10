@@ -1,0 +1,6 @@
+C:\Users\FTI-01\source\repos\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\AppMvcBasica.csprojAssemblyReference.cache
+C:\Users\FTI-01\source\repos\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\AppMvcBasica.AssemblyInfoInputs.cache
+C:\Users\FTI-01\source\repos\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\AppMvcBasica.AssemblyInfo.cs
+C:\Users\FTI-01\source\repos\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\AppMvcBasica.csproj.CoreCompileInputs.cache
+C:\Users\FTI-01\source\repos\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\AppMvcBasica.RazorAssemblyInfo.cache
+C:\Users\FTI-01\source\repos\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\AppMvcBasica.RazorAssemblyInfo.cs
